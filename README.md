@@ -1,4 +1,5 @@
-Hi, I'm Krista, your friendly neighborhood SQLizard🦎
+# Hi, I'm Krista, your friendly neighborhood SQLizard🦎
+
 |Users|
 |--|
 |<table><tr><th>id</th><th>firstName</th><th>gitHub</th><th>linkedIn</th><th>email</th><th>cool</th></tr><tr><td>1</td><td>Krista</td><td>KristaPants</td><td><a href="https://www.linkedin.com/in/kristaverleger/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a></td><td>krista.verleger@gmail.com</td><td>1</td></tr></table>|

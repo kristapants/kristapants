@@ -19,5 +19,3 @@ I've spent some time doing open source for a powershell passion project run by D
 Please reach out to me via email, LinkedIn or by tagging me in issues you'd like help in! PHP, PowerShell or anything database or testing related is sure to grab my interest!
 
 ---
-
-![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kristapants&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40)
